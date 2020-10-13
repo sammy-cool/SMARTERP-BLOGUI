@@ -1,6 +1,6 @@
 # SMART ERP
 Blog-ui assessment Project
-![smarterp-bloguiproject](https://user-images.githubusercontent.com/71437463/95807292-6851a980-0d27-11eb-82e5-600b7ef2175e.png)
+![Screenshot_20201013_074354](https://user-images.githubusercontent.com/71437463/95807537-0e051880-0d28-11eb-8e50-68c2c3402199.png)
 
 
 
