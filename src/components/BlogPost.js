@@ -1,5 +1,4 @@
 import React from 'react'
-import '../App.css'
 import { connect } from 'react-redux'
 
 import { setData } from '../actions/postAction'
@@ -24,6 +23,7 @@ class BlogPost extends React.Component {
             body: '',
             title: ''
         })
+        alert('blog submit successfully')
     }
 
     handleChange = (e) => {
