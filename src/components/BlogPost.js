@@ -23,7 +23,7 @@ class BlogPost extends React.Component {
             body: '',
             title: ''
         })
-        alert('blog submit successfully')
+        alert('Blog Submit Successfully')
     }
 
     handleChange = (e) => {
