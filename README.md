@@ -1,3 +1,9 @@
+# SMART ERP
+Blog-ui assessment Project
+![smarterp-bloguiproject](https://user-images.githubusercontent.com/71437463/95807292-6851a980-0d27-11eb-82e5-600b7ef2175e.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
